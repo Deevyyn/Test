@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401161227075",
+    "project_id": "flood-alert-ced47",
+    "storage_bucket": "flood-alert-ced47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401161227075:android:95df0dfe131683cd84bdf6",
+        "android_client_info": {
+          "package_name": "com.example.flood_reporting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAiSqEDZg-gnaynHmWdwoSmCU6FZgtIs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
